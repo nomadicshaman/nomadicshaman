@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Burak Bozan
-
+- Currently, I am working fulltime as a Japanese translator in a worldwide known Japanese company and self-studying web development out of my work times.
 - 🌱 I have experience on HTML5, CSS3, JS, Git and Github and am still learning them.
 - 👯 I’m looking to collaborate on minimal and beautiful designs in terms of both UI/UX and JS side.
 - 💬 Ask me about HTML5, CSS3 and JS.
