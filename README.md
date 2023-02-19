@@ -6,7 +6,7 @@
 - 📫 How to reach me: burakbozantr@gmail.com
 - 😄 Techstacks I want to learn in short future: React, Tailwind, Bootstrap, SASS, Python, PHP, SQL and Typescript.
 - ⚡ Interests: Video games(factorio, satisfactory, generals zero hour, aoe2 and paradox games), tinkering techs, chess and go.
-- :fire: Languages I Speak: English(good), Japanese(good), Turkish(native)
+- :fire: Languages I Speak: English(good), Japanese(advanced), Turkish(native)
 - [My portfolio website](https://nomadicshaman.github.io/digital-resume/)
 
 
